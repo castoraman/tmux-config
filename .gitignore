@@ -1,0 +1,33 @@
+# Backup files
+*.backup
+*.backup.*
+*~
+.#*
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# IDE/Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Local configuration overrides
+.tmux.conf.local
+local/
+
+# Session temporary files
+sessions/.*.tmp 
